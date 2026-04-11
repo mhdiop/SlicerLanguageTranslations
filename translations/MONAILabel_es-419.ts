@@ -7,7 +7,7 @@
         <location filename="MONAILabel/Resources/UI/LoginDialog.ui" line="20"/>
         <location filename="MONAILabel/Resources/UI/LoginDialog.ui" line="56"/>
         <source>Login</source>
-        <translation>Iniciar sesión</translation>
+        <translation type="unfinished">Iniciar sesión</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/LoginDialog.ui" line="29"/>

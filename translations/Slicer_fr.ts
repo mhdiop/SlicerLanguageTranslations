@@ -41,7 +41,7 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="12"/>
         <source>Output Volume</source>
-        <translation>Volume de sortie</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="13"/>
@@ -61,7 +61,7 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="16"/>
         <source>Advanced</source>
-        <translation>Avancé</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="17"/>

@@ -114,7 +114,7 @@ La fermeture de l&apos;application annulera tous les calculs en cours.</translat
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerDirectorySettings.ui" line="32"/>
         <source>Module Search Paths</source>
-        <translation>Chemins de recherche des modules</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerDirectorySettings.ui" line="77"/>
@@ -175,7 +175,7 @@ La fermeture de l&apos;application annulera tous les calculs en cours.</translat
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="146"/>
         <source>Progress Information</source>
-        <translation>Informations sur l’état d’avancement</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="195"/>
