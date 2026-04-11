@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TS version="2.1" language="fr">
 <context>
     <name>TutorialMaker</name>
@@ -7,14 +7,13 @@
         <source>Slicer4 Minute
 </source>
         <extracomment>0_TextBox_0</extracomment>
-        <translation type="finished">Slicer4 Minute
-</translation>
+        <translation>Slicer4 Minute</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="10"/>
         <source>Sonia Pujol, Ph.D.</source>
         <extracomment>0_TextBox_1</extracomment>
-        <translation type="finished">Sonia Pujol, Ph.D.</translation>
+        <translation>Sonia Pujol, titulaire d'un doctorat</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="12"/>
@@ -61,7 +60,7 @@ Harvard Medical School</translation>
         <location filename="text_dict_default.json" line="22"/>
         <source>3D Slicer version 5</source>
         <extracomment>3_3DSlicerversion5_title</extracomment>
-        <translation type="finished">3D Slicer version 5</translation>
+        <translation>3D Slicer version 5</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="24"/>
@@ -73,9 +72,9 @@ La scène contient une IRM ainsi que des modèles de surface 3D du cerveau.	</tr
     <message>
         <location filename="text_dict_default.json" line="26"/>
         <source>*A Slicer scene is a MRML (Medical Reality Modeling Language) file that contains a list of elements loaded into Slicer (volumes, models, fiducials, transforms, etc.)
-*In the following example, we use a scene &apos;Slicer4minute.mrml&apos; composed of an MRI scan and 3D models of the head. 
+*In the following example, we use a scene 'Slicer4minute.mrml' composed of an MRI scan and 3D models of the head. 
 *The scene file and datasets have been saved as a MRB (Medical Reality Bundle) file. 
-*The MRB file format is Slicer&apos;s archive file format.</source>
+*The MRB file format is Slicer's archive file format.</source>
         <extracomment>4_TextBox_1</extracomment>
         <translation type="finished">*Une scène Slicer est un fichier MRML (Medical Reality Modeling Language) qui contient une liste d’éléments chargés dans Slicer (volumes, modèles, repères, transformations, etc.)
 *Dans l’exemple suivant, nous utilisons une scène « Slicer4minute.mrml » composée d’une IRM et de modèles 3D de la tête.
@@ -216,13 +215,13 @@ Cliquez sur l’icône œil pour afficher les coupes axiale et coronale dans le 
 
 Check Clipping in the 3D Display tab
 
-In the Clipping Planes tab, select the option &apos;Green Slice Clipping&apos; and check &apos;Negative&apos;</source>
+In the Clipping Planes tab, select the option 'Green Slice Clipping' and check 'Negative'</source>
         <extracomment>15_TextBox_0</extracomment>
         <translation type="finished">Sélectionnez le modèle hemispheric_white_matter.vtk
 
 Cochez Découpage dans l’onglet 3D Display
 
-Dans l’onglet Plan de découpage, sélectionnez l’option &apos;Découpage selon la tranche verte&apos; et cochez &apos;Negatif&apos;</translation>
+Dans l’onglet Plan de découpage, sélectionnez l’option 'Découpage selon la tranche verte' et cochez 'Negatif'</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="76"/>
@@ -250,13 +249,12 @@ Neuroimage Analysis Center
 NIH P41EB015902
 </source>
         <extracomment>17_TextBox_1</extracomment>
-        <translation type="finished">National Alliance for Medical Image
-Computing
+        <translation>Alliance nationale pour l'imagerie médicale
+informatisée
 NIH U54EB005149
 
-Neuroimage Analysis Center
-NIH P41EB015902
-</translation>
+Centre d'analyse d'imagerie neurologique
+NIH P41EB015902</translation>
     </message>
 </context>
 </TS>

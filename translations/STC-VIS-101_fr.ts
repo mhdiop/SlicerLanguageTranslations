@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TS version="2.1" language="fr">
 <context>
     <name>TutorialMaker</name>
@@ -12,13 +12,13 @@
         <location filename="text_dict_default.json" line="10"/>
         <source>Author: Sonia Pujol, Ph.D.</source>
         <extracomment>0_TextBox_1</extracomment>
-        <translation type="finished">Auteur&#xa0;: Sonia Pujol, Ph.D.</translation>
+        <translation type="finished">Auteur : Sonia Pujol, Ph.D.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="12"/>
         <source>24/11/2024</source>
         <extracomment>0_TextBox_2</extracomment>
-        <translation type="finished">24/11/2024</translation>
+        <translation>24 novembre 2024</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="14"/>
@@ -54,7 +54,7 @@
 
 • to load and visualize 3D models reconstructed from MRI data</source>
         <extracomment>2_TextBox_1</extracomment>
-        <translation type="finished"> • À la suite de ce tutoriel, vous serez capable&#xa0;:
+        <translation type="finished"> • À la suite de ce tutoriel, vous serez capable :
 
 • de charger et visualiser des images DICOM dans Slicer
 
@@ -96,7 +96,7 @@
 
 Unzip the file 3DVisualizationDataset.zip on your computer to access the datasets</source>
         <extracomment>4_TextBox_1</extracomment>
-        <translation type="finished">Le fichier 3DVisualizationDataset.zip contient deux répertoires&#xa0;:
+        <translation type="finished">Le fichier 3DVisualizationDataset.zip contient deux répertoires :
 
 - dataset1_Thorax_Abdomen
 - dataset2_Head
@@ -138,18 +138,18 @@ Décompressez le fichier 3DVisualizationDataset.zip sur votre ordinateur pour ac
 
 • Part 3: Loading and Viewing 3D models</source>
         <extracomment>6_TextBox_1</extracomment>
-        <translation type="finished">• Partie 1&#xa0;: Chargement et visualisation des données DICOM
+        <translation type="finished">• Partie 1 : Chargement et visualisation des données DICOM
 
-• Partie 2&#xa0;: Rendu volumique
+• Partie 2 : Rendu volumique
 
 
-• Partie 3&#xa0;: Chargement et visualisation des modèles 3D</translation>
+• Partie 3 : Chargement et visualisation des modèles 3D</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="40"/>
         <source>Part 1: DICOM Data Loading</source>
         <extracomment>7_TextBox_0</extracomment>
-        <translation type="finished">Partie 1&#xa0;: Chargement des données DICOM</translation>
+        <translation type="finished">Partie 1 : Chargement des données DICOM</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="42"/>
@@ -208,7 +208,7 @@ pour charger le jeu de données dans Slicer</translation>
 17_VisualizingDICOMimages_title
 ----------
 18_VisualizingDICOMimages_title</extracomment>
-        <translation type="finished">Visualisation d&apos;images DICOM</translation>
+        <translation type="finished">Visualisation d'images DICOM</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="54"/>
@@ -339,7 +339,7 @@ module in the list of modules </source>
         <location filename="text_dict_default.json" line="98"/>
         <source>Part 2: Volume Rendering</source>
         <extracomment>21_TextBox_0</extracomment>
-        <translation type="finished">Partie 2&#xa0;: Rendu volumique</translation>
+        <translation type="finished">Partie 2 : Rendu volumique</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="100"/>
@@ -477,7 +477,7 @@ in the main menu</source>
 viewing 3D models
 </source>
         <extracomment>32_TextBox_0</extracomment>
-        <translation type="finished">Partie 3&#xa0;: Chargement et visualisation des modèles 3D
+        <translation type="finished">Partie 3 : Chargement et visualisation des modèles 3D
 </translation>
     </message>
     <message>
@@ -660,7 +660,7 @@ the optic chiasm</source>
         <location filename="text_dict_default.json" line="194"/>
         <source>Conclusion</source>
         <extracomment>45_TextBox_0</extracomment>
-        <translation type="finished">Conclusion</translation>
+        <translation>Conclusion</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="196"/>
@@ -676,7 +676,7 @@ Contact: spujol@bwh.harvard.edu</source>
 • Le tutoriel montre comment utiliser le rendu volumique et la modélisation de surface 3D pour la visualisation interactive des données CT et IRM.
 
 
-Contact&#xa0;: spujol@bwh.harvard.edu</translation>
+Contact : spujol@bwh.harvard.edu</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="198"/>
