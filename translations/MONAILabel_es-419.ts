@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="es-419">
 <context>
@@ -31,11 +31,11 @@
         <location filename="MONAILabel/MONAILabel.py" line="46"/>
         <source>
 Active Learning solution.
-See more information in &lt;a href=&quot;https://github.com/Project-MONAI/MONAILabel&quot;&gt;module documentation&lt;/a&gt;.
+See more information in &lt;a href="https://github.com/Project-MONAI/MONAILabel"&gt;module documentation&lt;/a&gt;.
 </source>
         <translation>
 Solución de aprendizaje activo.
-Ver más información en &lt;a href=&quot;https://github.com/Project-MONAI/MONAILabel&quot;&gt;module documentation&lt;/a&gt;.
+Ver más información en &lt;a href="https://github.com/Project-MONAI/MONAILabel"&gt;module documentation&lt;/a&gt;.
 </translation>
     </message>
     <message>
@@ -90,7 +90,7 @@ Desarrollado por NVIDIA, KCL
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="102"/>
         <source>Enable this option to auto run segmentation if pre-trained model exists when Next Sample is fetched</source>
-        <translation>Active esta opción para ejecutar automáticamente la segmentación si existe un modelo previamente configurado cuando se busque la &quot;Muestra siguiente&quot;</translation>
+        <translation>Active esta opción para ejecutar automáticamente la segmentación si existe un modelo previamente configurado cuando se busque la "Muestra siguiente"</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="105"/>
@@ -100,12 +100,12 @@ Desarrollado por NVIDIA, KCL
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="115"/>
         <source>Enable this option to fetch Next Sample after saving the label</source>
-        <translation>Active esta opción para obtener la &quot;Muestra siguiente&quot; después de guardar la etiqueta</translation>
+        <translation>Active esta opción para obtener la "Muestra siguiente" después de guardar la etiqueta</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="116"/>
         <source>Auto-Fetch Next Sample:</source>
-        <translation>Búsqueda automática de la &quot;Muestra siguiente&quot;:</translation>
+        <translation>Búsqueda automática de la "Muestra siguiente":</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="126"/>
@@ -170,17 +170,17 @@ Desarrollado por NVIDIA, KCL
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="197"/>
         <source>Enable this option to include dicom files in server-client data exchange</source>
-        <translation type="unfinished"></translation>
+        <translation>Active esta opción para incluir archivos DICOM en el intercambio de datos entre el servidor y el cliente</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="200"/>
         <source>Include DICOM files:</source>
-        <translation type="unfinished"></translation>
+        <translation>Incluir archivos DICOM:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="215"/>
-        <source>Overlapping segmentations are only available with the &apos;.seg.nrrd&apos; file extension!Consider changing MONAILabel file extension.</source>
-        <translation>Las segmentaciones solapadas sólo están disponibles con la extensión de archivo &apos;.seg.nrrd&apos; ¡Considere la posibilidad de cambiar la extensión de archivo MONAILabel.</translation>
+        <source>Overlapping segmentations are only available with the '.seg.nrrd' file extension!Consider changing MONAILabel file extension.</source>
+        <translation>Las segmentaciones solapadas sólo están disponibles con la extensión de archivo '.seg.nrrd' ¡Considere la posibilidad de cambiar la extensión de archivo MONAILabel.</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="317"/>
@@ -328,13 +328,13 @@ Hora de inicio: {hora_de_inicio}
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1225"/>
         <source>This will kill/stop current Training task.  Are you sure to continue?</source>
-        <translation>Esto eliminará/detendrá la tarea de &quot;Formación actual&quot;.  ¿Está seguro de continuar?</translation>
+        <translation>Esto eliminará/detendrá la tarea de "Formación actual".  ¿Está seguro de continuar?</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1236"/>
         <source>Failed to stop Training Task.
 {message}</source>
-        <translation>Error al detener la &quot;Tarea de formación&quot;.
+        <translation>Error al detener la "Tarea de formación".
 {mensaje}</translation>
     </message>
     <message>
@@ -378,8 +378,8 @@ En su lugar, vaya a Archivo -&gt; Añadir datos para cargar la imagen.</translat
         <location filename="MONAILabel/MONAILabel.py" line="1401"/>
         <source>Source volume - without any additional patient information - will be sent to remote data processing server: {server_url}.
 
-Click &apos;OK&apos; to proceed with the segmentation.
-Click &apos;Cancel&apos; to not upload any data and cancel segmentation.
+Click 'OK' to proceed with the segmentation.
+Click 'Cancel' to not upload any data and cancel segmentation.
 </source>
         <translation>El volumen de origen -sin información adicional sobre el paciente- se enviará al servidor remoto de procesamiento de datos: {servidor_url}.
 
@@ -653,7 +653,7 @@ Por favor, actualice a la última versión de monailabel (&gt; 0.2.0)</translati
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="667"/>
         <source>3D</source>
-        <translation>3D</translation>
+        <translation>Tridimensional</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="679"/>
@@ -664,7 +664,7 @@ Por favor, actualice a la última versión de monailabel (&gt; 0.2.0)</translati
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="555"/>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="728"/>
         <source>ROI:</source>
-        <translation>ROI:</translation>
+        <translation>Rentabilidad de la inversión:</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="755"/>
@@ -688,7 +688,7 @@ Por favor, actualice a la última versión de monailabel (&gt; 0.2.0)</translati
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="615"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="38"/>
-        <source>Reviewer&apos;s mode</source>
+        <source>Reviewer's mode</source>
         <translation>Modo de revisión</translation>
     </message>
     <message>
@@ -989,7 +989,7 @@ Por favor, actualice a la última versión de monailabel (&gt; 0.2.0)</translati
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="687"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="638"/>
         <source>Editor: </source>
-        <translation>Editor: </translation>
+        <translation>Editor:</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="688"/>
