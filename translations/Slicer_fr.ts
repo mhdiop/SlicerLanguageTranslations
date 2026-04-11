@@ -41,7 +41,7 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="12"/>
         <source>Output Volume</source>
-        <translation></translation>
+        <translation>Volume de sortie</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="13"/>
@@ -61,7 +61,7 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="16"/>
         <source>Advanced</source>
-        <translation></translation>
+        <translation>Avancé</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="17"/>
@@ -7785,7 +7785,7 @@ Ce fichier a été initialement développé par Andras Lasso
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="124"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Postuler</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="125"/>
@@ -7798,18 +7798,18 @@ Ce fichier a été initialement développé par Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="52"/>
         <source>Toggle fullscreen</source>
-        <translation type="unfinished"></translation>
+        <translation>Passer en mode plein écran</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="62"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Fermer</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="137"/>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="1113"/>
         <source>Show DICOM Database</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher la base de données DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="159"/>
@@ -7829,7 +7829,7 @@ Ce fichier a été initialement développé par Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="200"/>
         <source>DICOM Database</source>
-        <translation type="unfinished"></translation>
+        <translation>Base de données DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="395"/>
@@ -7884,17 +7884,17 @@ Ce fichier a été initialement développé par Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="597"/>
         <source>Log more details during DICOM operations. Useful for investigating DICOM loading issues but may impact performance. Detailed logging will be automatically disabled after 4 hours.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enregistrez davantage de détails lors des opérations DICOM. Cette fonction est utile pour analyser les problèmes de chargement DICOM, mais peut avoir un impact sur les performances. La journalisation détaillée sera automatiquement désactivée au bout de 4 heures.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="617"/>
         <source>Thumbnail size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Taille de la vignette :</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="676"/>
         <source>Enabled until {time}</source>
-        <translation type="unfinished"></translation>
+        <translation>Activé jusqu'à {heure}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="677"/>
@@ -7904,31 +7904,31 @@ Ce fichier a été initialement développé par Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="680"/>
         <source>Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Personnes handicapées</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="681"/>
         <source>Enable for 4 hours</source>
-        <translation type="unfinished"></translation>
+        <translation>Laisser agir pendant 4 heures</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="903"/>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="1048"/>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="1091"/>
         <source>Hide DICOM database</source>
-        <translation type="unfinished"></translation>
+        <translation>Masquer la base de données DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="905"/>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="1049"/>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="1095"/>
         <source>Show DICOM database</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher la base de données DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="910"/>
         <source>Side panel</source>
-        <translation type="unfinished"></translation>
+        <translation>Panneau latéral</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="604"/>
@@ -7943,7 +7943,7 @@ Ce fichier a été initialement développé par Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="612"/>
         <source>Hidden</source>
-        <translation type="unfinished"></translation>
+        <translation>Caché</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="613"/>
@@ -8019,7 +8019,7 @@ Ce fichier a été initialement développé par Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="1295"/>
         <source>running at port %s with TLS</source>
-        <translation type="unfinished"></translation>
+        <translation>en cours d'exécution sur le port %s avec TLS</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="1311"/>
@@ -8352,7 +8352,7 @@ Ce fichier a été initialement développé par Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="152"/>
         <source>Patch</source>
-        <translation type="unfinished"></translation>
+        <translation>Correctif</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="153"/>
@@ -8362,7 +8362,7 @@ Ce fichier a été initialement développé par Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="159"/>
         <source>Import to DICOM database</source>
-        <translation type="unfinished"></translation>
+        <translation>Importer dans la base de données DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="160"/>
@@ -9308,7 +9308,7 @@ Vous pouvez enregistrer la position de la caméra à tout moment en cliquant sur
     <message>
         <location filename="Modules/Scripted/LineProfile/LineProfile.py" line="30"/>
         <source>Line Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Profil de ligne</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/LineProfile.py" line="34"/>
@@ -9319,29 +9319,37 @@ Notes:
 2. Probed points within the image volume are linearly interpolated among adjacent voxel centers
 and then returned with the same data type as the probed image (e.g. rounded to integers if the image has integer data type).
     </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Ce module calcule le profil d'intensité d'un volume le long d'une ligne ou d'une courbe de repérage.
+Remarques :
+1. Les lignes situées à la limite de l'image (à l'extérieur du centre des voxels de bordure) peuvent se voir attribuer la valeur 0.
+2. Les points sondés à l'intérieur du volume de l'image sont interpolés linéairement entre les centres des voxels adjacents,
+puis renvoyés avec le même type de données que l'image sondée (par exemple, arrondis à des entiers si l'image a un type de données entier).
+    </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/LineProfile.py" line="42"/>
         <source>
 This file was originally developed by Andras Lasso (PerkLab) and was partially funded by CCO ACRU.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Ce fichier a été initialement développé par Andras Lasso (PerkLab) et a été partiellement financé par le CCO ACRU.
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/LineProfile.py" line="509"/>
         <source>{name} intensity</source>
-        <translation type="unfinished"></translation>
+        <translation>{nom} intensité</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/LineProfile.py" line="510"/>
         <source>{name} intensity table</source>
-        <translation type="unfinished"></translation>
+        <translation>Tableau des intensités de {name}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="14"/>
         <source>LineProfile</source>
-        <translation type="unfinished"></translation>
+        <translation>Profil de ligne</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="20"/>
@@ -9352,32 +9360,32 @@ This file was originally developed by Andras Lasso (PerkLab) and was partially f
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="29"/>
         <source>Input Volume:</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume d'entrée :</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="36"/>
         <source>Pick the input to the algorithm which will be sampled along the line.</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez l'entrée de l'algorithme qui sera échantillonnée le long de la ligne.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="72"/>
         <source>Input Line:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ligne de saisie :</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="79"/>
         <source>Line Resolution:</source>
-        <translation type="unfinished"></translation>
+        <translation>Résolution de ligne :</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="86"/>
         <source>Number of points to sample along the line.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre de points à échantillonner le long de la ligne.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="114"/>
         <source>Pick line or curve to take image samples along.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez une ligne ou une courbe pour prélever des échantillons d'image le long de celle-ci.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="134"/>
@@ -9392,12 +9400,12 @@ This file was originally developed by Andras Lasso (PerkLab) and was partially f
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="146"/>
         <source>Output Intensities Table:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tableau des intensités de production :</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="153"/>
         <source>Pick the table that will store the intensity and distance values.</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez la table qui contiendra les valeurs d'intensité et de distance.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="176"/>
@@ -9407,78 +9415,78 @@ This file was originally developed by Andras Lasso (PerkLab) and was partially f
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="186"/>
         <source>Output Intensities Plot Series:</source>
-        <translation type="unfinished"></translation>
+        <translation>Série de graphiques représentant les intensités de sortie :</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="193"/>
         <source>Pick the output plot series to the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez la série de graphiques de sortie pour l'algorithme.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="216"/>
         <source>Create new plot</source>
-        <translation type="unfinished"></translation>
+        <translation>Créer un nouveau tracé</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="226"/>
         <source>Plot Proportional Distance (%):</source>
-        <translation type="unfinished"></translation>
+        <translation>Tracer la distance proportionnelle (%) :</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="233"/>
         <source>If checked, then distance along the line in plot is not absolute, but the percent distance from the start of the line.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si cette option est cochée, la distance indiquée sur le graphique n'est pas une valeur absolue, mais un pourcentage par rapport au point de départ de la ligne.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="246"/>
         <source>Show plot:</source>
-        <translation type="unfinished"></translation>
+        <translation>Résumé de l'intrigue :</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="253"/>
         <source>If checked, then the intensity profile plot is automatically shown when the intensity profile is updated.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si cette case est cochée, le graphique du profil d'intensité s'affiche automatiquement dès que le profil d'intensité est mis à jour.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="269"/>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="275"/>
         <source>Peak Detection</source>
-        <translation type="unfinished"></translation>
+        <translation>Détection des pics</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="281"/>
         <source>Peaks Output Table:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tableau des puissances de crête :</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="288"/>
         <source>Pick the output table that will store information about each detected peak.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez la table de sortie qui contiendra les informations relatives à chaque pic détecté.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="299"/>
         <source>Peaks</source>
-        <translation type="unfinished"></translation>
+        <translation>devrait</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="321"/>
         <source>Minimum Peak Width:</source>
-        <translation type="unfinished"></translation>
+        <translation>Largeur minimale du pic :</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="328"/>
         <source>Minimum width of the peak. Use higher values to reject small peaks detected due to image noise.</source>
-        <translation type="unfinished"></translation>
+        <translation>Largeur minimale du pic. Utilisez des valeurs plus élevées pour écarter les petits pics détectés en raison du bruit de l'image.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="347"/>
         <source>Height for Width Measurement:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mesure de la hauteur par rapport à la largeur :</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="354"/>
         <source>Height at which the peak width is measured. 50% computes full width at half maximum. Larger value means that the height is measured near the top of the peak.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hauteur à laquelle la largeur du pic est mesurée. La valeur de 50 % correspond à la largeur à mi-hauteur. Une valeur plus élevée signifie que la hauteur est mesurée près du sommet du pic.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="357"/>
@@ -9488,22 +9496,22 @@ This file was originally developed by Andras Lasso (PerkLab) and was partially f
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="379"/>
         <source>Peak is Maximum:</source>
-        <translation type="unfinished"></translation>
+        <translation>Le pic correspond au maximum :</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="386"/>
         <source>If checked then peaks are local maximum values. If unchecked then peaks are local minimum values.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si cette case est cochée, les pics correspondent aux valeurs maximales locales. Si elle n'est pas cochée, les pics correspondent aux valeurs minimales locales.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="405"/>
         <source>Compute intensity profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Calculer le profil d'intensité</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="414"/>
         <source>autoUpdate</source>
-        <translation type="unfinished"></translation>
+        <translation>Mise à jour automatique</translation>
     </message>
 </context>
 <context>
@@ -9521,7 +9529,7 @@ This file was originally developed by Andras Lasso (PerkLab) and was partially f
     <message>
         <location filename="Modules/Loadable/SceneViews/qSlicerSceneViewsModule.cxx" line="41"/>
         <source>Capture/Restore</source>
-        <translation type="unfinished"></translation>
+        <translation>Sauvegarde/Restauration</translation>
     </message>
 </context>
 <context>
@@ -9587,12 +9595,12 @@ utilisez-le à des fins commerciales.&lt;/p&gt;
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="291"/>
         <source>Download URLs:</source>
-        <translation type="unfinished"></translation>
+        <translation>Liens de téléchargement :</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="294"/>
         <source>Enter one or more URLs (one per line) to download and load the corresponding data sets. Press Ctrl+Enter or click &apos;Load&apos; button to start loading.</source>
-        <translation type="unfinished"></translation>
+        <translation>Saisissez une ou plusieurs URL (une par ligne) pour télécharger et charger les ensembles de données correspondants. Appuyez sur Ctrl+Entrée ou cliquez sur le bouton « Charger » pour lancer le chargement.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="303"/>
@@ -9617,12 +9625,12 @@ utilisez-le à des fins commerciales.&lt;/p&gt;
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="355"/>
         <source>All {totalCount} data sets were loaded successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>Les {totalCount} ensembles de données ont été chargés avec succès.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="357"/>
         <source>Failed to load {errorCount} out of {totalCount} data sets.</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec du chargement de {errorCount} ensembles de données sur {totalCount}.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="619"/>
@@ -10654,7 +10662,21 @@ L&apos;effet utilise la &lt;a href=&quot;https://insight-journal.org/browse/publ
         If segments overlap, segment higher in the segments table will have priority.
         The effect uses &lt;a href=&quot;https://www.nature.com/articles/s41598-024-80206-7&quot;&gt;fast grow-cut method&lt;/a&gt;.
         &lt;p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Développement des segments pour créer une segmentation complète&lt;br&gt;.
+ L'emplacement, la taille et la forme des segments initiaux, ainsi que le contenu du volume source, sont pris en compte.
+ Les limites finales des segments seront placées là où la luminosité du volume source change brusquement. Instructions :&lt;p&gt;
+ &lt;ul style=&quot;margin: 0&quot;&gt;
+        &lt;li&gt;Utilisez l'outil Peinture ou d'autres effets pour dessiner des points de départ dans chaque région qui devrait appartenir à un segment distinct.
+ Peignez chaque point de départ avec un segment différent. Au moins deux segments sont requis.
+ &lt;li&gt;Cliquez sur &lt;dfn&gt;Initialiser&lt;/dfn&gt; pour calculer un aperçu de la segmentation complète.
+ &lt;li&gt;Parcourez les coupes de l'image. Si le résultat de la segmentation prévisualisé n'est pas correct, passez à
+ Paint ou à d'autres effets et ajoutez d'autres graines dans la région mal classée. La segmentation complète sera
+ mise à jour automatiquement en quelques secondes
+ &lt;li&gt;Cliquez sur &lt;dfn&gt;Appliquer&lt;/dfn&gt; pour mettre à jour la segmentation avec le résultat prévisualisé.
+ &lt;/ul&gt;&lt;p&gt;
+        Si des segments se chevauchent, le segment situé le plus haut dans le tableau des segments aura la priorité.
+ L'effet utilise &lt;a href=&quot;https://www.nature.com/articles/s41598-024-80206-7&quot;&gt;la méthode fast grow-cut&lt;/a&gt;.
+ &lt;p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorGrowFromSeedsEffect.py" line="77"/>
@@ -12466,33 +12488,33 @@ et le Consortium ontarien pour les interventions adaptatives en radio-oncologie 
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="40"/>
         <source> Import DICOM files</source>
-        <translation type="unfinished"></translation>
+        <translation> Importer des fichiers DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="57"/>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="60"/>
         <source>Show DICOM database</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher la base de données DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="80"/>
         <source>If enabled, the DICOM browser widget will be substituted with the visual browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si cette option est activée, le widget de navigation DICOM sera remplacé par le navigateur visuel.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="83"/>
         <source>Visual browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Navigateur visuel</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="103"/>
         <source>Show the dicom database in vertical mode allowing to use the Slicer views.</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher la base de données DICOM en mode vertical afin de pouvoir utiliser les vues de Slicer.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="106"/>
         <source>Side panel</source>
-        <translation type="unfinished"></translation>
+        <translation>Panneau latéral</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="151"/>
@@ -12587,12 +12609,12 @@ et le Consortium ontarien pour les interventions adaptatives en radio-oncologie 
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="325"/>
         <source>Refresh the visual DICOM browser to show the current state of the database.</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualisez le navigateur DICOM visuel pour afficher l'état actuel de la base de données.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="328"/>
         <source>Refresh browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualiser la page</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="338"/>
@@ -13811,18 +13833,18 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="550"/>
         <source>Direction Markers</source>
-        <translation type="unfinished"></translation>
+        <translation>Panneaux de signalisation</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="568"/>
         <source>Show Direction Markers:</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher les repères de direction :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="571"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="578"/>
         <source>Show or hide directional arrow markers along curve and line markups.</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher ou masquer les flèches de direction le long des annotations sur les courbes et les lignes.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="588"/>
@@ -13833,66 +13855,66 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="591"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="598"/>
         <source>Show direction markers in 3D views. Requires &quot;Show Direction Markers&quot; to be enabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher les repères de direction dans les vues 3D. Nécessite l'activation de l'option « Afficher les repères de direction ».</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="608"/>
         <source>2D Visibility:</source>
-        <translation type="unfinished"></translation>
+        <translation>Visibilité en 2D :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="611"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="618"/>
         <source>Show direction markers in 2D slice views. Requires &quot;Show Direction Markers&quot; to be enabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher les repères de direction dans les vues en coupe 2D. Cette option nécessite l'activation de « Afficher les repères de direction ».</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="628"/>
         <source>Slice Intersection Points:</source>
-        <translation type="unfinished"></translation>
+        <translation>Points d'intersection des tranches :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="631"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="638"/>
         <source>Show markers at positions where the curve/line crosses the current slice plane.</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher des repères aux endroits où la courbe ou la ligne croise le plan de coupe actuel.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="648"/>
         <source>Reverse Direction:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sens inverse :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="651"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="658"/>
         <source>Reverse the direction of the arrow markers so they point in the opposite direction along the curve or line.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inversez le sens des flèches afin qu'elles pointent dans la direction opposée le long de la courbe ou de la ligne.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="668"/>
         <source>Marker Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Taille du marqueur :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="671"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="678"/>
         <source>Size of each direction marker relative to the physical line thickness.</source>
-        <translation type="unfinished"></translation>
+        <translation>Taille de chaque repère de direction par rapport à l'épaisseur physique de la ligne.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="703"/>
         <source>Marker Spacing:</source>
-        <translation type="unfinished"></translation>
+        <translation>Espacement des marqueurs :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="706"/>
         <source>Distance between direction markers relative to the marker height.</source>
-        <translation type="unfinished"></translation>
+        <translation>Distance entre les balises de direction par rapport à la hauteur de celles-ci.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="713"/>
         <source>Distance between consecutive direction markers relative to the marker height. 100% = markers touch, 200% = one gap, 300% = two gaps.</source>
-        <translation type="unfinished"></translation>
+        <translation>Distance entre deux repères de direction consécutifs, exprimée en pourcentage de la hauteur du repère. 100 % = les repères se touchent, 200 % = un espace, 300 % = deux espaces.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="744"/>
@@ -14129,12 +14151,12 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="267"/>
         <source>Flip normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Retourner à l'affichage normal</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="270"/>
         <source>Reverse direction of the plane normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Inverser le sens de la normale au plan</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsPlaneWidget.cxx" line="102"/>
@@ -18551,7 +18573,7 @@ Si vous choisissez Oui pour tout, cette question n&apos;apparaît plus jamais et
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="339"/>
         <source>2D line width:</source>
-        <translation type="unfinished"></translation>
+        <translation>Largeur de trait en 2D :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="352"/>
@@ -18561,12 +18583,12 @@ Si vous choisissez Oui pour tout, cette question n&apos;apparaît plus jamais et
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="446"/>
         <source>Percentage of displacement used for setting the glyph size. 100% means the glyph size equals the actual displacement.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pourcentage de décalage utilisé pour définir la taille des glyphes. 100 % signifie que la taille des glyphes correspond au décalage réel.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="569"/>
         <source>2D glyph settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres des glyphes 2D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="963"/>
@@ -18609,17 +18631,17 @@ Si vous choisissez Oui pour tout, cette question n&apos;apparaît plus jamais et
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1260"/>
         <source>Enable scaling by manipulating 3D widget (left click and drag the handle at the center of widget face)</source>
-        <translation type="unfinished"></translation>
+        <translation>Activez la mise à l'échelle en manipulant le widget 3D (cliquez avec le bouton gauche et faites glisser la poignée située au centre de la face du widget)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1369"/>
         <source>Enable translating by manipulating 3D widget (left click and drag anywhere on the widget face)</source>
-        <translation type="unfinished"></translation>
+        <translation>Activez la rotation en déplaçant le widget 3D (cliquez avec le bouton gauche et faites glisser n'importe où sur la face du widget)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1423"/>
         <source>Enable scaling by manipulating 3D widget (shift +left click and drag the handle at the center of widget face, or left click and drag the center handle)</source>
-        <translation type="unfinished"></translation>
+        <translation>Activez la mise à l'échelle en manipulant le widget 3D (appuyez sur Maj + clic gauche et faites glisser la poignée située au centre de la face du widget, ou cliquez avec le bouton gauche et faites glisser la poignée centrale)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1488"/>
@@ -19105,7 +19127,7 @@ p, li { white-space&#xa0;: pre-wrap&#x202f;; }
     <message>
         <location filename="Base/QTApp/qSlicerAboutDialog.cxx" line="51"/>
         <source>About %1</source>
-        <translation type="unfinished"></translation>
+        <translation>À propos de %1</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerAboutDialog.cxx" line="66"/>
@@ -19472,7 +19494,7 @@ p, li { white-space&#xa0;: pre-wrap&#x202f;; }
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="140"/>
         <source>About %1</source>
-        <translation type="unfinished"></translation>
+        <translation>À propos de %1</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="107"/>
@@ -20347,7 +20369,7 @@ Capacités graphiques de cet ordinateur&#x202f;:
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="283"/>
         <source>Reorient volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Réorienter le volume</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="295"/>
@@ -20398,32 +20420,32 @@ Capacités graphiques de cet ordinateur&#x202f;:
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="756"/>
         <source>Align to volume axes + Resize</source>
-        <translation type="unfinished"></translation>
+        <translation>Aligner sur les axes de volume + Redimensionner</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="759"/>
         <source>Set axes of the ROI box to match the volume axes</source>
-        <translation type="unfinished"></translation>
+        <translation>Alignez les axes du cadre de la région d'intérêt (ROI) sur ceux du volume</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="767"/>
         <source>Align to world axes + Resize</source>
-        <translation type="unfinished"></translation>
+        <translation>Aligner sur les axes mondiaux + Redimensionner</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="770"/>
         <source>Set axes of the ROI box to match the world coordinate system axes</source>
-        <translation type="unfinished"></translation>
+        <translation>Alignez les axes du rectangle de la région d'intérêt (ROI) sur ceux du système de coordonnées global</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="778"/>
         <source>Resize only</source>
-        <translation type="unfinished"></translation>
+        <translation>Redimensionner uniquement</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="781"/>
         <source>Do not change ROI box orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne modifiez pas l'orientation de la boîte ROI</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="458"/>
@@ -20557,7 +20579,7 @@ Capacités graphiques de cet ordinateur&#x202f;:
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="246"/>
         <source>ROI fit mode</source>
-        <translation type="unfinished"></translation>
+        <translation>ROI fit mode</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="141"/>
@@ -24189,7 +24211,7 @@ Noms des colonnes du tableau : libellé, r, a, s, (ou l, p, s), défini, sélect
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="174"/>
         <source>Previous module</source>
-        <translation type="unfinished"></translation>
+        <translation>Module précédent</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="176"/>
@@ -24199,12 +24221,12 @@ Noms des colonnes du tableau : libellé, r, a, s, (ou l, p, s), défini, sélect
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="177"/>
         <source>Switch to previously used module</source>
-        <translation type="unfinished"></translation>
+        <translation>Passer au module utilisé précédemment</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="197"/>
         <source>Switch to next used module</source>
-        <translation type="unfinished"></translation>
+        <translation>Passer au module suivant utilisé</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="185"/>
@@ -24214,7 +24236,7 @@ Noms des colonnes du tableau : libellé, r, a, s, (ou l, p, s), défini, sélect
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="194"/>
         <source>Next module</source>
-        <translation type="unfinished"></translation>
+        <translation>Module suivant</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="196"/>
@@ -24968,17 +24990,18 @@ Noms des colonnes du tableau : libellé, r, a, s, (ou l, p, s), défini, sélect
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="97"/>
         <source>When enabled, the Scene View will store which objects are visible as well as color and transparency, and restore them when the Scene View is loaded.
 This option does not affect saving of view layout and window arrangement.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lorsqu'elle est activée, la vue de scène enregistre les objets visibles ainsi que leur couleur et leur transparence, et les rétablit lors du chargement de la vue de scène.
+Cette option n'a aucune incidence sur l'enregistrement de la disposition de la vue et de l'agencement des fenêtres.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="104"/>
         <source>Save view layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Enregistrer la disposition de la vue</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="106"/>
         <source>When enabled, the Scene View will store the arrangement of views on the screen (for example, which slice and 3D views are shown, how they are arranged, and their slice positions and 3D view orientations), and will restore this arrangement when the Scene View is loaded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lorsqu'elle est activée, la vue de scène enregistre la disposition des vues à l'écran (par exemple, les coupes et les vues 3D affichées, leur disposition, ainsi que la position des coupes et l'orientation des vues 3D), et rétablit cette disposition lors du chargement de la vue de scène.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="113"/>
@@ -27557,7 +27580,8 @@ p, li { white-space: pre-wrap; }
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="132"/>
         <source>Click to cycle through position states:
 Defined -&gt; Undefined (by clearing position) -&gt; Preview (by entering into place mode) -&gt; Missing (by marking as skip from placement) -&gt; Defined (by restoring last position)</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez pour faire défiler les états de position :
+Définie -&gt; Non définie (en effaçant la position) -&gt; Aperçu (en passant en mode placement) -&gt; Manquante (en marquant comme à ignorer lors du placement) -&gt; Définie (en rétablissant la dernière position)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="487"/>
@@ -27858,7 +27882,7 @@ Cliquez sur Annuler pour créer manuellement la hiérarchie patient/étude et gl
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="258"/>
         <source>Flip normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Retourner à l'affichage normal</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="450"/>
@@ -27869,7 +27893,7 @@ Cliquez sur Annuler pour créer manuellement la hiérarchie patient/étude et gl
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="470"/>
         <source> (Number of control points: %1)</source>
-        <translation type="unfinished"></translation>
+        <translation> (Nombre de points de contrôle : %1)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="592"/>
@@ -28746,17 +28770,17 @@ Balises&#xa0;: %6</translation>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumeRenderingPlugin.cxx" line="102"/>
         <source>Volume rendering settings...</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres de rendu volumétrique...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumeRenderingPlugin.cxx" line="106"/>
         <source>Volume rendering settings follow slice views</source>
-        <translation type="unfinished"></translation>
+        <translation>Les paramètres de rendu volumique s'adaptent aux vues en coupe</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumeRenderingPlugin.cxx" line="108"/>
         <source>Make volume rendering use the same window/level and color map settings as slice views</source>
-        <translation type="unfinished"></translation>
+        <translation>Faire en sorte que le rendu volumétrique utilise les mêmes paramètres de fenêtre/niveau et de carte de couleurs que les vues en coupe</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumeRenderingPlugin.cxx" line="103"/>
@@ -31711,7 +31735,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
         <location filename="Libs/MRML/Core/vtkMRMLSequenceStorageNode.cxx" line="254"/>
         <source>MRML Sequence</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Séquence MRML</translation>
     </message>
 </context>
 <context>
@@ -31898,7 +31922,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
         <location filename="Libs/MRML/Core/vtkMRMLTransformSequenceStorageNode.cxx" line="629"/>
         <source>Grid Transform Sequence</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Séquence de transformation de la grille</translation>
     </message>
 </context>
 <context>
@@ -32132,7 +32156,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
         <location filename="Libs/MRML/Core/vtkMRMLVolumeSequenceStorageNode.cxx" line="59"/>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeSequenceStorageNode.h" line="61"/>
         <source>Volume Sequence Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Stockage séquentiel de volumes</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeSequenceStorageNode.cxx" line="527"/>
