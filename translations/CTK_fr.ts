@@ -2103,7 +2103,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientDelegate.cpp" line="326"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientDelegate.cpp" line="507"/>
         <source>MRN: %1</source>
-        <translation>MRN: %1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientDelegate.cpp" line="330"/>
